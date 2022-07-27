@@ -1,4 +1,4 @@
-package com.chainsys.day6;
+package com.chainsys;
 
 import java.util.Scanner;
 

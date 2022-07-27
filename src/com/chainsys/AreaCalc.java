@@ -1,4 +1,4 @@
-package com.chainsys.day6;
+package com.chainsys;
 
 public class AreaCalc {
 	// For Square

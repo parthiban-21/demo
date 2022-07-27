@@ -1,4 +1,4 @@
-package com.chainsys.day7;
+package main.java.com.chainsys.day7;
 
 public class ToDoValidationChild extends ToDoApplicationValidation{
 

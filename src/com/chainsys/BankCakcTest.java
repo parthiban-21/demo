@@ -1,6 +1,8 @@
-package com.chainsys.day6;
+package com.chainsys;
 
 import java.util.Scanner;
+
+import main.java.com.chainsys.day6.BankCalc;
 
 public class BankCakcTest {
 

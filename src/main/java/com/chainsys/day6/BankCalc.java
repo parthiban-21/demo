@@ -1,4 +1,4 @@
-package com.chainsys.day6;
+package main.java.com.chainsys.day6;
 
 public class BankCalc {
 	public int bank[] = {1000,1500,2000};

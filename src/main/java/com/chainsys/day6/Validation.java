@@ -1,4 +1,4 @@
-package com.chainsys.day6;
+package main.java.com.chainsys.day6;
 
 public class Validation {
 	// Validator for Name
